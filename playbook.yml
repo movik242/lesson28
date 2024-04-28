@@ -1,5 +1,5 @@
 ---
-- name: install postgres 14 and set up replication
+- name: install postgres 15 and set up replication
   hosts: node1, node2
   become: true
   roles:
